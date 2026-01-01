@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(echo:*)",
+      "Bash(cat:*)",
+      "Bash(dir \"c:\\\\Users\\\\giuli\\\\Documents\\\\GitHub\\\\AI-Playground\\\\AI with Tensorflow\"\")"
+    ]
+  }
+}
